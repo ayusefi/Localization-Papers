@@ -1,6 +1,17 @@
 # Localization Papers
 *NOTE:* If I missed any paper or have any suggestion, plese feel free to [open an issue](https://github.com/ayusefi/Localization-Papers/issues).
 
+## Visual Based
+## 2012
+| Title | Venue | Link | CODE |
+| :-----|:-----:|:---:|:----:|
+| Accurate Global Localization Using Visual Odometry and Digital Maps on Urban Environments | ITS | [Link](https://ieeexplore.ieee.org/abstract/document/6192327) | - |
+
+## 2009
+| Title | Venue | Link | CODE |
+| :-----|:-----:|:---:|:----:|
+| Mobile robot navigation in a corridor using visual odometry | ICAR | [Link](https://ieeexplore.ieee.org/abstract/document/5174790) | - |
+
 ## Sensor Fusion Based
 ## 2018
 | Title | Venue | Link | CODE |
@@ -26,6 +37,12 @@
 | :-----|:-----:|:---:|:----:|
 | Road Slope Aided Vehicle Position Estimation System Based on Sensor Fusion of GPS and Automotive Onboard Sensors | ITS | [Link](https://ieeexplore.ieee.org/abstract/document/7222432) | - |
 
+## 2012
+| Title | Venue | Link | CODE |
+| :-----|:-----:|:---:|:----:|
+| EKF Based Mobile Robot Localization | ICEST | [Link](https://ieeexplore.ieee.org/abstract/document/6328101) | - |
+| Accurate Global Localization Using Visual Odometry and Digital Maps on Urban Environments | ITS | [Link](https://ieeexplore.ieee.org/abstract/document/6192327) | - |
+
 ## 2011
 | Title | Venue | Link | CODE |
 | :-----|:-----:|:---:|:----:|
@@ -36,4 +53,9 @@
 | :-----|:-----:|:---:|:----:|
 | Multi-sensor data fusion for autonomous vehicle navigation through adaptive particle filter | IVS | [Link](https://ieeexplore.ieee.org/abstract/document/5548052) | - |
 | Extended Kalman and Particle Filtering for sensor fusion in motion control of mobile robots | MCS | [Link](https://www.sciencedirect.com/science/article/pii/S0378475410001515) | - |
+
+## 2009
+| Title | Venue | Link | CODE |
+| :-----|:-----:|:---:|:----:|
+| Mobile robot navigation in a corridor using visual odometry | ICAR | [Link](https://ieeexplore.ieee.org/abstract/document/5174790) | - |
 
