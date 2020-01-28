@@ -6,8 +6,6 @@
 | Title | Venue | Link | CODE |
 | :-----|:-----:|:---:|:----:|
 | Self-Supervised Deep Reinforcement Learning with Generalized Computation Graphs for Robot Navigation | ICRA | [Link](https://ieeexplore.ieee.org/abstract/document/8460655) | [Code](https://github.com/gkahn13/gcg) |
-| EKF and Computer Vision for Mobile Robot Localization | CONTROLO | [Link](https://ieeexplore.ieee.org/abstract/document/8514177) | - |
-| Localization of Mobile Robot using Odometry, Camera Images and Extended Kalman Filter | APMAS | [Link](http://przyrbwn.icm.edu.pl/APP/PDF/134/app134z1p053.pdf) | - |
 
 ## 2017
 | Title | Venue | Link | CODE |
@@ -15,6 +13,27 @@
 | Target-driven visual navigation in indoor scenes using deep reinforcement learning | ICRA | [Link](https://ieeexplore.ieee.org/abstract/document/7989381) | [Code](https://github.com/shamanez/Target-Driven-Visual-Navigation-with-Distributed-PPO) |
 | Deep reinforcement learning with successor features for navigation across similar environments | IROS | [Link](https://ieeexplore.ieee.org/abstract/document/8206049) | - |
 | Virtual-to-real deep reinforcement learning: Continuous control of mobile robots for mapless navigation | IROS | [Link](https://ieeexplore.ieee.org/abstract/document/8202134) | [Code](https://github.com/m5823779/DDPG) |
+| One-Shot Reinforcement Learning for Robot Navigation with Interactive Replay | ARXIV | [Link](https://arxiv.org/abs/1711.10137) | - |
+| Safe Visual Navigation via Deep Learning and Novelty Detection | RSSF | [Link](https://dspace.mit.edu/handle/1721.1/115978) | - |
+| Intention-Net: Integrating Planning and Deep Learning for Goal-Directed Autonomous Navigation | ARXIV | [Link](https://arxiv.org/abs/1710.05627) | [Code](https://github.com/xiexiexiaoxiexie/Udacity-self-driving-car-engineer-P7-Highway-Driving) |
+
+## 2016
+| Title | Venue | Link | CODE |
+| :-----|:-----:|:---:|:----:|
+| A deep-network solution towards model-less obstacle avoidance | IROS | [Link](https://ieeexplore.ieee.org/abstract/document/7759428) | - |
+| Socially compliant mobile robot navigation via inverse reinforcement learning | IJRR | [Link](https://journals.sagepub.com/doi/abs/10.1177/0278364915619772) | - |
+
+## 2006
+| Title | Venue | Link | CODE |
+| :-----|:-----:|:---:|:----:|
+| Off-road obstacle avoidance through end-to-end learning | ANIPS | [Link](http://papers.nips.cc/paper/2847-off-road-obstacle-avoidance-through-end-to-end-learning.pdf) | - |
+
+## Visual Based
+## 2018
+| Title | Venue | Link | CODE |
+| :-----|:-----:|:---:|:----:|
+| EKF and Computer Vision for Mobile Robot Localization | CONTROLO | [Link](https://ieeexplore.ieee.org/abstract/document/8514177) | - |
+| Localization of Mobile Robot using Odometry, Camera Images and Extended Kalman Filter | APMAS | [Link](http://przyrbwn.icm.edu.pl/APP/PDF/134/app134z1p053.pdf) | - |
 
 ## 2012
 | Title | Venue | Link | CODE |
