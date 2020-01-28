@@ -7,6 +7,7 @@
 | :-----|:-----:|:---:|:----:|
 | Visual Representations for Semantic Target Driven Navigation | ICRA | [Link](https://ieeexplore.ieee.org/abstract/document/8793493) | [Code](https://github.com/arsalan-mousavian/Navigation) |
 | Self-Monitoring Navigation Agent via Auxiliary Progress Estimation | ARXIV | [Link](https://arxiv.org/abs/1901.03035) | [Code](https://github.com/chihyaoma/selfmonitoring-agent) |
+| CNN-SVO: Improving the Mapping in Semi-Direct Visual Odometry Using Single-Image Depth Prediction | ARXIV | [Link](https://ieeexplore.ieee.org/abstract/document/8794425) | [Code](https://github.com/yan99033/CNN-SVO) |
 
 ## 2018
 | Title | Venue | Link | CODE |
@@ -50,6 +51,11 @@
 | :-----|:-----:|:---:|:----:|
 | EKF and Computer Vision for Mobile Robot Localization | CONTROLO | [Link](https://ieeexplore.ieee.org/abstract/document/8514177) | - |
 | Localization of Mobile Robot using Odometry, Camera Images and Extended Kalman Filter | APMAS | [Link](http://przyrbwn.icm.edu.pl/APP/PDF/134/app134z1p053.pdf) | - |
+
+## 2014
+| Title | Venue | Link | CODE |
+| :-----|:-----:|:---:|:----:|
+| SVO: Fast semi-direct monocular visual odometry | ICRA | [Link](https://ieeexplore.ieee.org/abstract/document/6906584) | [Code](https://github.com/uzh-rpg/rpg_svo) |
 
 ## 2012
 | Title | Venue | Link | CODE |
