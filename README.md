@@ -37,6 +37,14 @@
 | Off-road obstacle avoidance through end-to-end learning | ANIPS | [Link](http://papers.nips.cc/paper/2847-off-road-obstacle-avoidance-through-end-to-end-learning.pdf) | - |
 
 ## Visual Based
+## 2019
+| Title | Venue | Link | CODE |
+| :-----|:-----:|:---:|:----:|
+| PlaneLoc: Probabilistic global localization in 3-D using local planar features | RAS | [Link](https://www.sciencedirect.com/science/article/pii/S0921889018303701) | - |
+| Revisiting the Bag-of-Visual-Words model: A hierarchical localization architecture for mobile systems | RAS | [Link](https://www.sciencedirect.com/science/article/pii/S0921889018305293) | - |
+| Robot Localization in Floor Plans Using a Room Layout Edge Extraction Network | ARXIV | [Link](https://arxiv.org/abs/1903.01804) | - |
+| SeqSLAM++: View-based robot localization and navigation | RAS | [Link](https://www.sciencedirect.com/science/article/pii/S092188901730684X) | - |
+
 ## 2018
 | Title | Venue | Link | CODE |
 | :-----|:-----:|:---:|:----:|
@@ -47,6 +55,7 @@
 | Title | Venue | Link | CODE |
 | :-----|:-----:|:---:|:----:|
 | Accurate Global Localization Using Visual Odometry and Digital Maps on Urban Environments | ITS | [Link](https://ieeexplore.ieee.org/abstract/document/6192327) | - |
+| SeqSLAM: Visual route-based navigation for sunny summer days and stormy winter nights | ICRA | [Link](https://ieeexplore.ieee.org/abstract/document/6224623) | - |
 
 ## 2009
 | Title | Venue | Link | CODE |
