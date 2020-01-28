@@ -5,5 +5,6 @@
 ## 2010
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Multi-sensor data fusion for autonomous vehicle navigation through adaptive particle filter | IIVS | [PDF](https://ieeexplore.ieee.org/abstract/document/5548052) | - |
 | Extended Kalman and Particle Filtering for sensor fusion in motion control of mobile robots | MCS | [PDF](https://www.sciencedirect.com/science/article/pii/S0378475410001515) | - |
 
