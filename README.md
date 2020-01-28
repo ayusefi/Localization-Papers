@@ -2,6 +2,11 @@
 *NOTE:* If I missed any paper or have any suggestion, plese feel free to [open an issue](https://github.com/ayusefi/Localization-Papers/issues).
 
 ## Visual Based
+## 2018
+| Title | Venue | Link | CODE |
+| :-----|:-----:|:---:|:----:|
+| Localization of Mobile Robot using Odometry, Camera Images and Extended Kalman Filter | APMAS | [Link](http://przyrbwn.icm.edu.pl/APP/PDF/134/app134z1p053.pdf) | - |
+
 ## 2012
 | Title | Venue | Link | CODE |
 | :-----|:-----:|:---:|:----:|
@@ -18,6 +23,7 @@
 | :-----|:-----:|:---:|:----:|
 | Robust and Precise Vehicle Localization Based on Multi-Sensor Fusion in Diverse City Scenes | ICRA | [Link](https://ieeexplore.ieee.org/abstract/document/8461224) | - |
 | An innovative information fusion method with adaptive Kalman filter for integrated INS/GPS navigation of autonomous vehicles | MSSP | [Link](https://www.sciencedirect.com/science/article/pii/S0888327017304211) | - |
+| Localization of Mobile Robot using Odometry, Camera Images and Extended Kalman Filter | APMAS | [Link](http://przyrbwn.icm.edu.pl/APP/PDF/134/app134z1p053.pdf) | - |
 
 ## 2017
 | Title | Venue | Link | CODE |
