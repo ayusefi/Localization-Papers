@@ -2,6 +2,17 @@
 *NOTE:* If I missed any paper or have any suggestion, plese feel free to [open an issue](https://github.com/ayusefi/Localization-Papers/issues).
 
 ## Sensor Fusion Based
+## 2018
+| Title | Venue | Link | CODE |
+| :-----|:-----:|:---:|:----:|
+| Robust and Precise Vehicle Localization Based on Multi-Sensor Fusion in Diverse City Scenes | ICRA | [Link](https://ieeexplore.ieee.org/abstract/document/8461224) | - |
+| An innovative information fusion method with adaptive Kalman filter for integrated INS/GPS navigation of autonomous vehicles | MSSP | [Link](https://www.sciencedirect.com/science/article/pii/S0888327017304211) | - |
+
+## 2017
+| Title | Venue | Link | CODE |
+| :-----|:-----:|:---:|:----:|
+| A Robust Vehicle Localization Approach Based on GNSS/IMU/DMI/LiDAR Sensor Fusion for Autonomous Vehicles | MDPI | [Link](https://www.mdpi.com/1424-8220/17/9/2140/htm) | - |
+
 ## 2016
 | Title | Venue | Link | CODE |
 | :-----|:-----:|:---:|:----:|
