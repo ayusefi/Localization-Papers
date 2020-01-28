@@ -1,12 +1,17 @@
 # Localization Papers
 *NOTE:* If I missed any paper or have any suggestion, plese feel free to [open an issue](https://github.com/ayusefi/Localization-Papers/issues).
 
-## Visual Based
+## Visual & Deep Learning Based
 ## 2018
 | Title | Venue | Link | CODE |
 | :-----|:-----:|:---:|:----:|
 | EKF and Computer Vision for Mobile Robot Localization | CONTROLO | [Link](https://ieeexplore.ieee.org/abstract/document/8514177) | - |
 | Localization of Mobile Robot using Odometry, Camera Images and Extended Kalman Filter | APMAS | [Link](http://przyrbwn.icm.edu.pl/APP/PDF/134/app134z1p053.pdf) | - |
+
+## 2017
+| Title | Venue | Link | CODE |
+| :-----|:-----:|:---:|:----:|
+| Target-driven visual navigation in indoor scenes using deep reinforcement learning | ICRA | [Link](https://ieeexplore.ieee.org/abstract/document/7989381) | [CODE](https://github.com/shamanez/Target-Driven-Visual-Navigation-with-Distributed-PPO) |
 
 ## 2012
 | Title | Venue | Link | CODE |
