@@ -2,6 +2,12 @@
 *NOTE:* If I missed any paper or have any suggestion, plese feel free to [open an issue](https://github.com/ayusefi/Localization-Papers/issues).
 
 ## Visual & Deep Learning Based
+## 2019
+| Title | Venue | Link | CODE |
+| :-----|:-----:|:---:|:----:|
+| Visual Representations for Semantic Target Driven Navigation | ICRA | [Link](https://ieeexplore.ieee.org/abstract/document/8793493) | [Code](https://github.com/arsalan-mousavian/Navigation) |
+| Self-Monitoring Navigation Agent via Auxiliary Progress Estimation | ARXIV | [Link](https://arxiv.org/abs/1901.03035) | [Code](https://github.com/chihyaoma/selfmonitoring-agent) |
+
 ## 2018
 | Title | Venue | Link | CODE |
 | :-----|:-----:|:---:|:----:|
@@ -17,6 +23,7 @@
 | Safe Visual Navigation via Deep Learning and Novelty Detection | RSSF | [Link](https://dspace.mit.edu/handle/1721.1/115978) | - |
 | Intention-Net: Integrating Planning and Deep Learning for Goal-Directed Autonomous Navigation | ARXIV | [Link](https://arxiv.org/abs/1710.05627) | [Code](https://github.com/xiexiexiaoxiexie/Udacity-self-driving-car-engineer-P7-Highway-Driving) |
 | Socially aware motion planning with deep reinforcement learning | IROS | [Link](https://ieeexplore.ieee.org/abstract/document/8202312) | - |
+| Cognitive Mapping and Planning for Visual Navigation | CVPR | [Link](http://openaccess.thecvf.com/content_cvpr_2017/html/Gupta_Cognitive_Mapping_and_CVPR_2017_paper.html) | [Code](https://github.com/niudong1001/cognitive_mapping_and_planning) |
 
 ## 2016
 | Title | Venue | Link | CODE |
@@ -47,6 +54,12 @@
 | Mobile robot navigation in a corridor using visual odometry | ICAR | [Link](https://ieeexplore.ieee.org/abstract/document/5174790) | - |
 
 ## Sensor Fusion Based
+## 2019
+| Title | Venue | Link | CODE |
+| :-----|:-----:|:---:|:----:|
+| Practical Indoor Localization via Smartphone Sensor Data Fusion Techniques: A Performance Study | CCNC | [Link](https://ieeexplore.ieee.org/abstract/document/8651859) | - |
+| Precise localization of the mobile wheeled robot using sensor fusion of odometry, visual artificial landmarks and inertial sensors | RAS | [Link](https://www.sciencedirect.com/science/article/pii/S0921889018300757) | - |
+
 ## 2018
 | Title | Venue | Link | CODE |
 | :-----|:-----:|:---:|:----:|
@@ -56,6 +69,7 @@
 | High Precise Localization of Mobile Robot by Three Times Pose Correction | ICRAS | [Link](https://ieeexplore.ieee.org/abstract/document/8442385) | - |
 | EKF and Computer Vision for Mobile Robot Localization | CONTROLO | [Link](https://ieeexplore.ieee.org/abstract/document/8514177) | - |
 | Robust Localization and Position Control for Mobile Robot Using EKF with Disturbance Estimation | CM | [Link](https://ieeexplore.ieee.org/abstract/document/8495723) | - |
+| A Sensor Fusion Approach to Indoor Human Localization Based on Environmental and Wearable Sensors | ASE | [Link](https://ieeexplore.ieee.org/abstract/document/8510895) | - |
 
 ## 2017
 | Title | Venue | Link | CODE |
