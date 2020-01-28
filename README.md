@@ -5,6 +5,7 @@
 ## 2018
 | Title | Venue | Link | CODE |
 | :-----|:-----:|:---:|:----:|
+| EKF and Computer Vision for Mobile Robot Localization | CONTROLO | [Link](https://ieeexplore.ieee.org/abstract/document/8514177) | - |
 | Localization of Mobile Robot using Odometry, Camera Images and Extended Kalman Filter | APMAS | [Link](http://przyrbwn.icm.edu.pl/APP/PDF/134/app134z1p053.pdf) | - |
 
 ## 2012
@@ -24,6 +25,9 @@
 | Robust and Precise Vehicle Localization Based on Multi-Sensor Fusion in Diverse City Scenes | ICRA | [Link](https://ieeexplore.ieee.org/abstract/document/8461224) | - |
 | An innovative information fusion method with adaptive Kalman filter for integrated INS/GPS navigation of autonomous vehicles | MSSP | [Link](https://www.sciencedirect.com/science/article/pii/S0888327017304211) | - |
 | Localization of Mobile Robot using Odometry, Camera Images and Extended Kalman Filter | APMAS | [Link](http://przyrbwn.icm.edu.pl/APP/PDF/134/app134z1p053.pdf) | - |
+| High Precise Localization of Mobile Robot by Three Times Pose Correction | ICRAS | [Link](https://ieeexplore.ieee.org/abstract/document/8442385) | - |
+| EKF and Computer Vision for Mobile Robot Localization | CONTROLO | [Link](https://ieeexplore.ieee.org/abstract/document/8514177) | - |
+| Robust Localization and Position Control for Mobile Robot Using EKF with Disturbance Estimation | CM | [Link](https://ieeexplore.ieee.org/abstract/document/8495723) | - |
 
 ## 2017
 | Title | Venue | Link | CODE |
