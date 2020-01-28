@@ -16,6 +16,7 @@
 | One-Shot Reinforcement Learning for Robot Navigation with Interactive Replay | ARXIV | [Link](https://arxiv.org/abs/1711.10137) | - |
 | Safe Visual Navigation via Deep Learning and Novelty Detection | RSSF | [Link](https://dspace.mit.edu/handle/1721.1/115978) | - |
 | Intention-Net: Integrating Planning and Deep Learning for Goal-Directed Autonomous Navigation | ARXIV | [Link](https://arxiv.org/abs/1710.05627) | [Code](https://github.com/xiexiexiaoxiexie/Udacity-self-driving-car-engineer-P7-Highway-Driving) |
+| Socially aware motion planning with deep reinforcement learning | IROS | [Link](https://ieeexplore.ieee.org/abstract/document/8202312) | - |
 
 ## 2016
 | Title | Venue | Link | CODE |
